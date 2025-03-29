@@ -1,8 +1,8 @@
 # BlackHoles
 
-##Finds black holes in directed graphs 🕳️→⭐
+## Finds black holes in directed graphs 🕳️→⭐
 
-###Problem
+### Problem
 A black hole is a weakly-connected subgraph where:
 
 -Contains ≥2 nodes
