@@ -1,5 +1,3 @@
-# BlackHoles
-
 ## Finds black holes in directed graphs 🕳️→⭐
 
 ### Problem
