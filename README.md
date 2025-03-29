@@ -9,3 +9,6 @@ A black hole is a weakly-connected subgraph where:
 - All edges point inward (no exits)
 - Common in fraud/spam detection 💳📧
 
+### Solution → go get github.com/ElenaDanchenko/NewBlack.go
+
+
